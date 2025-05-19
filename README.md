@@ -1,5 +1,14 @@
-# 💫 About Me:
-🏫 I'm studying at Malla Reddy Engineering College for Women (MRECW)<br>🌱 I’m currently learning DSA using Java, Backend & Databases<br>🔭 I’m currently working on Portfolio<br>💬 Ask me about AI/ML modeling<br>📝 Always exploring new trends in AIML<br>🔗 All of my projects<br>📄 Know about my experiences<br>📫 How to reach me
+# 🌟👩‍💻RAMEESA💡🚀
+
+- [🏫](https://www.mallareddyinstitutions.com/) Studying AI & ML @ MRECW  
+- [🧩](https://www.geeksforgeeks.org/data-structures/) Learning DSA in Java, Backend & Databases  
+- [🧠](https://github.com/rameesa786/ReMedIntel) Building ReMedIntel – Smart Patient Readmission Predictor  
+- [🤖](mailto:rameesa228@gmail.com) Love talking about AI, ML, NLP & Streamlit  
+- [📖](https://towardsdatascience.com/) Constantly exploring AIML research & articles  
+- [🧰](https://github.com/rameesa786?tab=repositories) Browse all my GitHub Projects  
+- [📜](https://github.com/rameesa786) View my Resume  
+- [🛰️](https://linkedin.com/in/amatulsaleha) Connect with me on LinkedIn  
+
 
 
 ## 🌐 Socials:
