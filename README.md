@@ -2,9 +2,8 @@
 
 - [🏫](https://www.mallareddyinstitutions.com/) Studying AI & ML @ MRECW  
 - [🧩](https://www.geeksforgeeks.org/data-structures/) Learning DSA in Java, Backend & Databases  
-- [🧠](https://github.com/rameesa786/ReMedIntel) Building ReMedIntel – Smart Patient Readmission Predictor  
-- [🤖](mailto:rameesa228@gmail.com) Love talking about AI, ML, NLP & Streamlit  
-- [📖](https://towardsdatascience.com/) Constantly exploring AIML research & articles  
+- [🧠](https://github.com/rameesa786/ReMedIntel) Building the Portfolio  
+- [🤖](mailto:rameesa228@gmail.com)Using AI/ML to empower decisions, innovate, and create impact.   
 - [🧰](https://github.com/rameesa786?tab=repositories) Browse all my GitHub Projects  
 - [📜](https://github.com/rameesa786) View my Resume  
 - [🛰️](https://linkedin.com/in/amatulsaleha) Connect with me on LinkedIn  
