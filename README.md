@@ -4,8 +4,8 @@
 - 🧩Learning DSA in Java, Backend & Databases    
 - [🤖](mailto:rameesa228@gmail.com)Using AI/ML to empower decisions, innovate, and create impact.   
 - [🧰](https://github.com/rameesa786?tab=repositories) Browse all my GitHub Projects  
-- [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/22RH1A66F0)
-- [🛰️](https://linkedin.com/in/amatulsaleha) Connect with me on LinkedIn  
+- [🛰️](https://linkedin.com/in/amatulsaleha) Connect with me on LinkedIn
+- [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/22RH1A66F0) 
 
 
 
