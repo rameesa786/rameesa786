@@ -1,8 +1,7 @@
 # 🌟👩‍💻RAMEESA💡🚀
 
 - [🏫](https://www.mallareddyinstitutions.com/) Studying AI & ML @ MRECW  
-- 🧩Learning DSA in Java, Backend & Databases  
-- [🧠](https://github.com/rameesa786/ReMedIntel) Building the Portfolio  
+- 🧩Learning DSA in Java, Backend & Databases    
 - [🤖](mailto:rameesa228@gmail.com)Using AI/ML to empower decisions, innovate, and create impact.   
 - [🧰](https://github.com/rameesa786?tab=repositories) Browse all my GitHub Projects  
 - 📜View my Resume  
